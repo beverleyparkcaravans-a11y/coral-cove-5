@@ -1,15 +1,15 @@
-# Coral Cove 5 Website
+# Coral Cove 5 Vercel Website
 
-## Upload to GitHub
-1. Create a new GitHub repository called `coral-cove-5`.
-2. Upload all files and folders from this project. Do not upload the ZIP itself.
-3. Make sure `package.json`, `app`, `components`, `tailwind.config.js` and `postcss.config.js` are visible in GitHub.
+A Next.js + Tailwind website for Coral Cove 5, a Regal Cranleigh lodge at Beverley Holiday Park, Paignton, Devon.
 
 ## Deploy to Vercel
-1. Open Vercel and click Add New Project.
-2. Import the new GitHub repository.
-3. Framework preset: Next.js.
-4. Click Deploy.
 
-## Important
-Replace the sample Unsplash images in `app/page.jsx` with your real Coral Cove 5 lodge photos later.
+1. Upload this project to GitHub.
+2. Go to Vercel > Add New > Project.
+3. Import the GitHub repository.
+4. Click Deploy.
+5. Add your domain under Project > Settings > Domains.
+
+## Booking calendar
+
+Replace the booking calendar placeholder in `app/page.tsx` with your Bookalet, Lodgify or Smoobu embed code.
